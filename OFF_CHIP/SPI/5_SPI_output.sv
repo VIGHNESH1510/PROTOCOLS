@@ -1,0 +1,21 @@
+# KERNEL: time=0 CPOL=0 CPHA=0 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=215 CPOL=0 CPHA=0 data_M=af data_S=bb done_M=1 done_S=0 data_in_M=bb data_in_S=00
+# KERNEL: time=225 CPOL=0 CPHA=0 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=235 CPOL=0 CPHA=0 data_M=af data_S=bb done_M=0 done_S=1 data_in_M=00 data_in_S=5e
+# KERNEL: time=255 CPOL=0 CPHA=0 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=265 CPOL=0 CPHA=1 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=475 CPOL=0 CPHA=1 data_M=af data_S=bb done_M=1 done_S=0 data_in_M=bb data_in_S=00
+# KERNEL: time=485 CPOL=0 CPHA=1 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=495 CPOL=0 CPHA=1 data_M=af data_S=bb done_M=0 done_S=1 data_in_M=00 data_in_S=5e
+# KERNEL: time=515 CPOL=0 CPHA=1 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=530 CPOL=1 CPHA=0 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=745 CPOL=1 CPHA=0 data_M=af data_S=bb done_M=1 done_S=0 data_in_M=bb data_in_S=00
+# KERNEL: time=755 CPOL=1 CPHA=0 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=765 CPOL=1 CPHA=0 data_M=af data_S=bb done_M=0 done_S=1 data_in_M=00 data_in_S=5e
+# KERNEL: time=785 CPOL=1 CPHA=0 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=795 CPOL=1 CPHA=1 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=1005 CPOL=1 CPHA=1 data_M=af data_S=bb done_M=1 done_S=0 data_in_M=bb data_in_S=00
+# KERNEL: time=1015 CPOL=1 CPHA=1 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# KERNEL: time=1025 CPOL=1 CPHA=1 data_M=af data_S=bb done_M=0 done_S=1 data_in_M=00 data_in_S=5e
+# KERNEL: time=1045 CPOL=1 CPHA=1 data_M=af data_S=bb done_M=0 done_S=0 data_in_M=00 data_in_S=00
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (85): $finish called.
